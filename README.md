@@ -6,7 +6,7 @@ Kotlin and write some simple beginner code. This program implements using variab
 
 You can watch a demo of my software here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/RaD-8BCWM90)
 
 # Development Environment
 
